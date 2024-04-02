@@ -34,7 +34,7 @@ To set up the Tic Tac Toe game locally, follow these steps:
 1. **Clone the Repository**: 
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/moataz-armash/tic-tac-toe.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -66,11 +66,3 @@ To play the game, follow these instructions:
 - If all squares are filled and no player has won, the game ends in a draw.
 
 Enjoy playing Tic Tac Toe!
-
-## Contributing
-
-Contributions are welcome! If you find any bugs, have feature requests, or want to contribute to the project, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
