@@ -23,8 +23,8 @@ This Tic Tac Toe game allows two players to compete against each other, taking t
 
 ## Screenshots
 
-![Tic Tac Toe Game Board](https://github.com/moataz-armash/tic-tac-toe/blob/main/public/tictactoe1.png)
-![Tic Tac Toe Game Board](https://github.com/moataz-armash/tic-tac-toe/blob/main/public/tictactoe.png)
+[![Tic Tac Toe Game Board](https://github.com/moataz-armash/tic-tac-toe/raw/main/public/tictactoe1.png)](https://tic-tac-hppvtzdde-moatazarmashs-projects.vercel.app/)
+[![Tic Tac Toe Game Board](https://github.com/moataz-armash/tic-tac-toe/raw/main/public/tictactoe.png)](https://tic-tac-hppvtzdde-moatazarmashs-projects.vercel.app/)
 
 
 ## Setup
