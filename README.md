@@ -6,10 +6,9 @@ Welcome to the Tic Tac Toe game! This is a simple yet engaging implementation of
 
 - [Overview](#overview)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
